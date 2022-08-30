@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andréa Cristina Biavatti</h1>
-<h3 align="center">A data science student from Brasil</h3>
+- A data science student from Brasil</h3>
 
 - 🌱 I’m currently learning **Data Analysis, Data Science, Python Full Stack and Test Analyst QA**
 
